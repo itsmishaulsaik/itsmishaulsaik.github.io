@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body{
+    margin: 0%;
+    padding:0%;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background: rgb(30,27,92);
+    background: linear-gradient(331deg, rgba(30,27,92,1) 10%, rgba(9,9,121,1) 18%, rgba(0,212,255,1) 85%);
+}
+h1{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: black 00 4px, grey 5px 5px 10px;
+}
+.navbar ul{
+    list-style: none;
+    background:#000428;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+.navbar li{
+display: inline-block;
+}
+
+.navbar a{
+text-decoration: underline;
+color: antiquewhite;
+width: 200px;
+display: block;
+padding: 25px 20px;
+font-size: 18px;
+text-align: center;
+}
+.navbar a:hover{
+     background: cadetblue;
+} 
+h2{
+    color: antiquewhite;
+    font-size: 65px;
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-shadow:black 00 5px, grey 6px 6px 11px;
+}
+p{
+    color:#000428;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:lightslategray 00 4px, wheat 5px 5px 10px;
+}
+h3{
+    color:#000428;
+    font-style: italic;
+    font-size: 30px;
+    font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    text-shadow: lightslategray 00 4px, wheat 5px 5px 10px;
+}
